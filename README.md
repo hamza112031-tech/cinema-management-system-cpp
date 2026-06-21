@@ -334,4 +334,4 @@ The Cinema Management System is a complete simulation of cinema operations devel
 
 **Project Type:** Academic Team Project
 
-**Team:** Team 35 🚀
+**Team:** Team NOSIGNAL 🚀
